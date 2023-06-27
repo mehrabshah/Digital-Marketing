@@ -1,0 +1,14 @@
+.main{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+:root {
+    --primary-color: #222C54; 
+    --secondary-color:#4A7973;
+    --text: #0F1819;
+    --white:white;
+    --border-line:#EFEFEF;
+}
+
+
